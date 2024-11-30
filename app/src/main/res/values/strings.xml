@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlightSearch</string>
+
+    <string name="welcomeTitle">
+        Welcome on EasySearch
+    </string>
+    <string name="welcomeTitleAirport">
+        airport App!
+    </string>
+</resources>
